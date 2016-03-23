@@ -2,14 +2,17 @@ Basado en (https://github.com/h5bp/html5-boilerplate/blob/5.3.0/dist/doc/usage.m
 
 ## Basic Structure
 
+```javascript
 |-- `css`
     |-- main.css
     |-- normalize.css
-|-- `img`
-|-- `js`
+    
+|-- img
+|-- js
     |-- main.js
     |-- vendor
         |-- Modernizr.js
 |-- views
 |-- index.html
+```
 
