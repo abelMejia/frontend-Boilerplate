@@ -20,3 +20,11 @@ A basic frontend boilerplate using node and express
 |-- index.html
 ```
 
+## Installation and Usage
+
+$ git clone https://github.com/madhums/node-express-mongoose.git
+$ cd node-express-mongoose
+$ npm install
+$ npm start
+
+
