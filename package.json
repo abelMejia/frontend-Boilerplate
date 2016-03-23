@@ -1,0 +1,24 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Basado en",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelMejia/frontend-Boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelMejia/frontend-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/abelMejia/frontend-Boilerplate#readme",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "open": "0.0.5"
+  }
+}
